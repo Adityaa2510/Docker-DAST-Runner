@@ -833,13 +833,7 @@ For security-related issues, avoid publicly disclosing exploitable details about
 
 ---
 
-## 📜 License
 
-Add a `LICENSE` file to the repository to specify the terms under which the project can be used, modified, and distributed.
-
-OWASP ZAP and other included software remain subject to their respective licenses. Review those licenses before redistributing a derived image.
-
----
 
 ## 👨‍💻 Author
 
