@@ -1,0 +1,10 @@
+
+.git
+.github
+.vscode
+.idea
+.env
+*.log
+zap-report.html
+reports/
+__pycache__/
